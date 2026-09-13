@@ -2,7 +2,7 @@
 
 Projet numérique de L3 Physique SPRINT qui a pour objectif la simulation de l'évolution d'un matériau simulé par modèle d'Ising 2D.
 
-**Collaboration avec Skander Bouguessa et Adrian Tello.**
+**Projet en collaboration avec Skander Bouguessa et Adrian Tello.**
 
 Les résultats du projet sont à trouver dans le fichier *Compte_rendu.pdf* (**quelques erreurs d'unité sont à relever sur les graphes**).
 
